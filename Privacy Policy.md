@@ -1,6 +1,6 @@
 By using the bot, you automatically accept not only the bot rules, but also the privacy terms
 
-** `1. Which data is stored?`**
+**`1. Which data is stored?`**
 
 The Dev-Bot ensures the following:
 
@@ -16,7 +16,7 @@ All data is managed by the Bot Developers Ohnezahn DNC#8135, Julius#1755 and Cre
 
 Server moderators in which a user was muted / warned.
 
-** `4. How do I get rid of the data?`**
+**`4. How do I get rid of the data?`**
 
 Quite simple, one of the server moderators have to kick the bot out of the server.
 
