@@ -1,4 +1,4 @@
-By using the bot, you automatically accept not only the Terms of Service, but also the privacy terms
+By using the bot, you automatically accept not only the Terms of Service, but also the Privacy Terms
 
 **`1. Which data is stored?`**
 
