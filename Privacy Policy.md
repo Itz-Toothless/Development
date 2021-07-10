@@ -1,37 +1,33 @@
-Sie akzeptieren mit der Nutzung des Bots automatisch nicht nur die Bot-Regeln, sondern auch die Privacy Terms
+By using the bot, you automatically accept not only the bot rules, but also the privacy terms
 
-**`1. Welche Daten werden gesichert?`**
+** `1. Which data is stored?`**
 
-Der Dev-Bot sichert folgendes:
+The Dev-Bot ensures the following:
 
-Server IDs für beispielsweise Logs oder das Verwarn-System.
+Server IDs for e.g. logs or the warning system.
 
-Nutzer IDs, beispielsweise für die Bot-Ausschließung sowie das akzeptieren der Bot-Regeln, ebenso für Stummgeschaltete Personen.
+User IDs, for example for bot exclusion and acceptance of bot rules, as well as for muted people.
 
-**`2. Wer hat Zugriff auf diese Daten?`**
+**`2. Who has access to this data?`**
 
-Alle Daten werden von den Bot-Entwicklern Ohnezahn DNC#8135 , Julius#1755 und Creative Dreamer#0001 verwaltet.
+All data is managed by the Bot Developers Ohnezahn DNC#8135, Julius#1755 and Creative Dreamer#0001.
 
-**`3. Welche Personen haben Zugriff auf Verwarnungen / Stummschaltungen?`**
+**`3. Who have access to warnings / mutes?`**
 
-Server Moderatoren, in welchen ein Nutzer stummgeschaltet / verwarnt wurde. 
+Server moderators in which a user was muted / warned.
 
-**`4. Wie werde ich die Daten wieder los?`**
+** `4. How do I get rid of the data?`**
 
-Ganz einfach, einer der Server Moderatoren müssen den Bot aus dem Server kicken.
+Quite simple, one of the server moderators have to kick the bot out of the server.
 
-**`5. Wie lösche ich die Verwarnungen?`**
+**`5. Why does he back up this data at all?`**
 
-Um Verwarnungen zu löschen, muss einer der Server Moderatoren den Befehl **`o?deletewarn {@user/id}`** eingeben
+On the one hand, the bot would only be partially usable / individually adjustable, for example regarding to server logs.
 
-**`6. Wieso sichert er überhaupt diese Daten?`**
+In addition, it also saves the user ID for warnings or mutes because the bot has to find the user in the database, for example for further warnings or to direct message the person.
 
-Zum einen würde der Bot nur teilweise nutzbar / individuell einstellbar sein, beispielsweise bezüglich der Server Logs.
+In relation to this, it saves the data for the blacklist because the team wants to prevent rule breakers from exploiting the bot.
 
-Außerdem sichert er die Nutzer ID für Verwarnungen bzw. Stummschaltungen aufgrund dessen, dass der Bot den Nutzer in der Datenbank finden muss für beispielsweise weitere Verwarnungen oder um die Person persönlich anzuschreiben.
+**`6. I would like this data to be deleted, where can I request it to be deleted?`**
 
-In Bezug dazu sichert er die Daten für die Blacklist weil das Team verhindern möchte, dass Regel Brecher den Bot ausnutzen.
-
-**`7. Ich möchte, dass diese Daten gelöscht werden, wo kann ich eine Löschung dieser Beantragen?`**
-
-Kommen Sie zum [Support Server](https://discord.gg/VqAuHFUjTy), das weitere können Sie dann sehr gerne mit Julius#1755, Creative Dreamer#0001 und Ohnezahn DNC#8135 besprechen.
+Come to the [Support Server] (https://discord.gg/VqAuHFUjTy), you are welcome to discuss the rest of this with Julius # 1755, Creative Dreamer # 0001 and Ohnezahn DNC # 8135.
