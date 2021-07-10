@@ -4,7 +4,7 @@ By using the bot, you automatically accept not only the Terms of Service, but al
 
 The Dev-Bot ensures the following:
 
-Server IDs for e.g. logs or the warning system.
+Server IDs for e.g. Logs
 
 User IDs, for example for bot exclusion and acceptance of the ToS, as well as for muted people.
 
