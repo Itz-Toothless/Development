@@ -30,4 +30,4 @@ In relation to this, it saves the data for the blacklist because the team wants 
 
 **`6. I would like this data to be deleted, where can I request it to be deleted?`**
 
-Come to the [Support Server] (https://discord.gg/VqAuHFUjTy), you are welcome to discuss the rest of this with Julius # 1755, Creative Dreamer # 0001 and Ohnezahn DNC # 8135.
+Come to the [Support Server](https://discord.gg/VqAuHFUjTy), you are welcome to discuss the rest of this with Julius # 1755, Creative Dreamer # 0001 and Ohnezahn DNC # 8135.
