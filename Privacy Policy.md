@@ -1,4 +1,4 @@
-By using the bot, you automatically accept not only the bot rules, but also the privacy terms
+By using the bot, you automatically accept not only the Terms of Service, but also the privacy terms
 
 **`1. Which data is stored?`**
 
@@ -6,7 +6,7 @@ The Dev-Bot ensures the following:
 
 Server IDs for e.g. logs or the warning system.
 
-User IDs, for example for bot exclusion and acceptance of bot rules, as well as for muted people.
+User IDs, for example for bot exclusion and acceptance of the ToS, as well as for muted people.
 
 **`2. Who has access to this data?`**
 
