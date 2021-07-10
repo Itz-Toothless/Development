@@ -95,6 +95,6 @@ By continuing to access or use our Service after those revisions become effectiv
 **Contact Us**
 If you have any questions about these Terms and Conditions, You can contact us:
 
-By visiting this page on our website: https://github.com/Ohnezahn-DNC/Development/issues
+By visiting this page on our website: [Click here if you may have any Issues](https://github.com/Ohnezahn-DNC/Development/issues)
 
 The [Terms of Service](https://discord.com/terms) and the [General Guidelines](https://discord.com/guidelines) as well as the [Privacy Policy](https://discord.com/privacy) of Discord apply at all times!
