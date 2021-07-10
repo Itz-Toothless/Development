@@ -26,7 +26,7 @@ On the one hand, the bot would only be partially usable / individually adjustabl
 
 In addition, it also saves the user ID for warnings or mutes because the bot has to find the user in the database, for example for further warnings or to direct message the person.
 
-In relation to this, it saves the data for the blacklist because the team wants to prevent rule breakers from exploiting the bot.
+On the other hand, it saves the data for the blacklist because the team wants to prevent rule breakers from exploiting the bot.
 
 **`6. I would like this data to be deleted, where can I request it to be deleted?`**
 
