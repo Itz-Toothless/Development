@@ -14,7 +14,7 @@ All data is managed by the Bot Developers Ohnezahn DNC#8135, Julius#1755 and Cre
 
 **`3. Who have access to warnings / mutes?`**
 
-Server moderators in which a user was muted / warned.
+Server moderators in which a user was muted
 
 **`4. How do I get rid of the data?`**
 
@@ -30,4 +30,4 @@ On the other hand, it saves the data for the blacklist because the team wants to
 
 **`6. I would like this data to be deleted, where can I request it to be deleted?`**
 
-Come to the [Support Server](https://discord.gg/VqAuHFUjTy), you are welcome to discuss the rest of this with Julius # 1755, Creative Dreamer # 0001 and Ohnezahn DNC # 8135.
+Come to the [Support Server](https://discord.gg/VqAuHFUjTy), you are welcome to discuss the rest of this with Julius#1755, Creative Dreamer#0001 and Ohnezahn DNC#8135.
